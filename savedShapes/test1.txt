@@ -1,0 +1,5 @@
+0	0	255	0	255	0	255	165	0	
+3
+Square	0	294	207	110	NO-FILL	NO-FILL
+Elipse 	1	537	254	656	358	BLUE	No-Fill-color
+Hexagon	2	299	381	419	460	BLUE	No-Fill-color

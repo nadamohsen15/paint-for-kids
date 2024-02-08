@@ -1,0 +1,6 @@
+0	0	255	0	255	0	0	255	0	
+4
+Square	-842150451	186	116	106	BLUE	No-Fill-color
+Square	-842150451	493	208	88	BLUE	No-Fill-color
+Square	-842150451	233	245	117	BLUE	No-Fill-color
+Square	-842150451	711	142	109	BLUE	No-Fill-color
